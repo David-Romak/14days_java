@@ -46,8 +46,8 @@
   ` PEMDAS = Parentheses → Exponents → Multiplication/Division → Addition/Subtraction
     (Different acronym, same order as BODMAS)`
    
-7. Syntax Nuances
-      `static keyword position: static String myMethod() `
+7. **Syntax Nuances**
+      static keyword position: static String myMethod() 
 
 
    

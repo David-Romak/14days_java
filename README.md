@@ -9,4 +9,4 @@
 
 **How to Follow Along:**
 ```bash
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/David-Romak/14days_java.git

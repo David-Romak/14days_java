@@ -1,7 +1,7 @@
 # Java Learning Journey - Day 2/12 🚀
 
 **Focus Areas:** Control Flow, I/O Best Practices, Randomization, and Advanced Formatting  
-**Project:** [Romac's Coffee Shop](https://github.com/David-Romak/14days_java) ☕  
+**Project:** [Romac's Coffee Shop](https://github.com/David-Romak/14days_java/RecieptGenerator.java) ☕  
 **Key Struggle:** Debugging alignment/formatter issues (resolved with DeepSeek assistance!)
 
 ---
@@ -47,6 +47,7 @@ int diceRoll = rand.nextInt(6) + 1; // 1-6
 // Reproducible testing with seed
 Random testRand = new Random(123); 
 System.out.println(testRand.nextInt(10)); // Always outputs 0
+
 4. Resource Management
 // Manual closing (error-prone)
 Scanner scanner = new Scanner(System.in);
